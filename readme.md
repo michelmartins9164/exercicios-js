@@ -7,4 +7,5 @@ Nessas pastas estão alguns exercicios sobre lógica de programação. Os exerc�
 [5] Usar While para contar de 0 a 10;
 [6] Usar for para contar de 0 a 10;
 [7] Pergunte até quanto o usuário deseja contar, e conte de 0 até o valor desejad.
+[8] Receba as duas notas de um aluno, faça a média e diga se ele foi aprovado ou não sendo que se a nota for maior ou igual a 7 ele estará aprovado, se menor que isso ele será reprovado.
 
